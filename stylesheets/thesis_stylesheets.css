@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+@import url(http://fonts.googleapis.com/css?family=Della+Respira);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Cherry+Swash);
+h1 {
+	font-family: 'Cherry Swash', cursive; 
+	text-transform: uppercase;
+} 
+
+h2 {
+	font-family: 'Della Respira', cursive;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+.author{
+	font-family: Condiment, cursive;
+	font-style: italic;
+}
+.subC {
+	font-size: 10px;
+}
+.subC:hover {
+	color: red;
+}
